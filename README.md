@@ -31,5 +31,5 @@ Adding this Gym will help players get their different category points for differ
 
 ## Class Diagram Image
 
-[Flowchart.pdf](https://github.com/user-attachments/files/20742690/Flowchart.pdf)
+[Class-Diagram_Image.pdf](https://github.com/user-attachments/files/20742690/Flowchart.pdf)
 
